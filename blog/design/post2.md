@@ -1,5 +1,5 @@
 ---
-title: "My First Design Post"
+title: "Design is No More a Choice"
 description: "This is the description of my first design post."
 image: "./images/image2.png"
 ---
