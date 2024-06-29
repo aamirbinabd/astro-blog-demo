@@ -1,7 +1,7 @@
 ---
 title: "My First Coding Post"
 description: "This is the description of my first coding post."
-image: "./images/image1.jpg"
+image: "./images/image1.png"
 ---
 
 ![Alt text](./images/image1.png)
